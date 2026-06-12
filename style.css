@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background-color: #839958;
-  color: #105666;
+  background-color: #c1ecfd;
+  color: #283f76;
 
   max-width: 900px;
   margin: 0 auto;
@@ -20,7 +20,7 @@ img {
 }
 
 .container {
-  background: #f7f4d5;
+  background: #fff6b7;
   padding: 30px;
   border-radius: 20px;
 }
@@ -29,8 +29,8 @@ a {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
-  background: #d3968c;
-  color: #f7f4d5;
+  background: #f70a36;
+  color: #fff6b7;
   text-decoration: none;
   border-radius: 10px;
 }
