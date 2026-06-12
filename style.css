@@ -1,6 +1,40 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background-color: rgb(148, 199, 180);
-  color: rgb(48, 37, 62);
+  background-color: #f7f4d5;
+  color: #105666;
+
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px; 
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 300px;
+  border-radius: 15px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: rgb(48, 37, 62);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+a:hover {
+  opacity: 0.85;
 }
